@@ -1,0 +1,7 @@
+# Plus X-Fi's own requirements (see the X-Fi repository). Versions used for the pilot:
+torch          # 2.x with CUDA; run on one 8 GB laptop GPU
+numpy<2
+scipy
+pyyaml
+tqdm
+matplotlib
